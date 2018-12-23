@@ -4,7 +4,8 @@
   "description": "elm test",
   "main": "src/main.js",
   "scripts": {
-    "star": "parcel src/index.html"
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
   },
   "keywords": [
     "elm",
