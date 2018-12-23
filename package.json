@@ -1,0 +1,19 @@
+{
+  "name": "elm-test",
+  "version": "1.0.0",
+  "description": "elm test",
+  "main": "src/main.js",
+  "scripts": {
+    "star": "parcel src/index.html"
+  },
+  "keywords": [
+    "elm",
+    "js"
+  ],
+  "author": "atlemagnussen",
+  "license": "ISC",
+  "devDependencies": {
+    "elm-hot": "^1.0.1",
+    "node-elm-compiler": "^5.0.1"
+  }
+}
